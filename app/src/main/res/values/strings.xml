@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">juego-FrontInvaders</string>
+    <string name="action_settings">contacto</string>
+    <string name="action_exit">Salida</string>
+    <string name="salida">Salida</string>
+    <string name="atras">Atrás</string>
+</resources>

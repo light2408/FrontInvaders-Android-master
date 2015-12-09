@@ -1,0 +1,3 @@
+[submodule "FrontInvaders-Android"]
+	path = FrontInvaders-Android
+	url = ./FrontInvaders-Android
